@@ -23,3 +23,7 @@
 10. Clone a website
 11. Simple blog platform content management system (CMS)
 12. Write a web application to catalog your DVD|Books|MP3 collection
+13. A simple web app for picking up carryout for friends, family, coworkers, etc.
+	* Users can easily add menu items from various restaurants (also sides, items left off, etc.)
+	* App can estimate cost totals 
+	* Meant for practice. We can make up restaurants/menus and keep it simple.
