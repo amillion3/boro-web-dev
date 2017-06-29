@@ -27,3 +27,9 @@
 	* Users can easily add menu items from various restaurants (also sides, items left off, etc.)
 	* App can estimate cost totals 
 	* Meant for practice. We can make up restaurants/menus and keep it simple.
+14. Use wikipedia and build a project off of their crowd-sourced data.
+    * List of tallest buildings
+    * List of fires
+    * List of tropical cyclones
+    * You get the idea...
+    * There are many ways to sort and display this data. Would involve data scraping and organizing/storing/querying, most likely.
